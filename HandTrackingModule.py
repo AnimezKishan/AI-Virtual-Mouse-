@@ -3,6 +3,7 @@
 # pip install mediapipe
 
 # if throws error after installation of mediapipe
+# Then degrade the version of protobuf: 
 # pip3 install --upgrade protobuf==3.20.0
 
 import cv2
